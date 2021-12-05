@@ -1,0 +1,155 @@
+body{
+    margin:0;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.container{
+    margin:0;
+}
+
+#showcase{
+height:100vh;
+background-image: url(https://learn.seytech.co/assets/projects/html-css/images/beach/beachshowcase.jpeg
+);
+background-size: cover;
+background-position: center;
+display:flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+padding:30px;
+align-content: space-between;
+color:#795548;
+}
+
+h1{
+    margin:0;
+    padding-bottom: 20px;
+    font-size: 50px;
+
+}
+button{
+    padding: 10px 20px;
+    border-radius: 5px; 
+    border: 2px solid #795548;
+    color: #795548;
+    background-color: transparent;
+}
+button:hover{
+    color:white;
+    background-color: #795548;
+    cursor: pointer;
+}
+.article-max{
+    text-align: center;
+}
+.article-max p{
+    padding:10px 20px; 
+}
+.article-max p:nth-child(even) {
+    background-color: #795548;
+    color:white;
+}
+body{
+    margin:0;
+    font-family: 'Ubuntu', sans-serif;
+}
+.container{
+    margin:0;
+}
+#showcase{
+    height: 100vh;
+    background-image: url(https://learn.seytech.co/assets/projects/html-css/images/beach/beachshowcase.jpeg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    color: #795548;
+  
+}
+h1{
+    margin: 0;
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+button{
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: 1px solid #795548;
+    color:  #795548;
+    background-color: transparent;
+}
+button:hover{
+    color: white;
+    background-color:#795548 ;
+    cursor: pointer;
+}
+body{
+    margin:0;
+    font-family: 'Ubuntu', sans-serif;
+}
+.container{
+    margin:0;
+}
+#showcase{
+    height: 100vh;
+    background-image: url(https://learn.seytech.co/assets/projects/html-css/images/beach/beachshowcase.jpeg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    color: #795548;
+  
+}
+h1{
+    margin: 0;
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+button{
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: 1px solid #795548;
+    color:  #795548;
+    background-color: transparent;
+}
+button:hover{
+    color: white;
+    background-color:#795548 ;
+    cursor: pointer;
+}
+.article-max{
+    text-align: center;
+}
+.article-max p{
+    padding: 10px 20px;
+}
+.article-max p:nth-child(even){
+    background-color: #795548;
+    color: white;
+}
+.article-max p:nth-child(odd){
+    color: #795548;
+}
+.article-min{
+    display: flex;
+    text-align: center;
+}
+.article-min p{
+    padding: 100px;
+}
+.article-min p:nth-child(odd){
+    background-color: #795548;
+    color: white;
+}
+.article-min p:nth-child(even){
+    color: #795548;
+}
